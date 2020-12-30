@@ -1,4 +1,6 @@
-# Cadastro de Usuários
+## Usuários
+
+Nesta página é possível monitorar e editar os usuários já cadastrados assim como adicionar novos.
 
 ### Tipos de Usuário
 
@@ -14,22 +16,25 @@
   - Possui controle total ao site, podendo criar, alterar e deletar usuários, criar dashboards e manipular código de eventos.
 
 #### Cadastro
-- Para iniciar o cadastro de um usuário abra a página <b>`Usuário`</b>
+- Para iniciar o cadastro de um usuário abra a página **`Usuário`**
 - Selecione a opção `Adicionar item` no menu superior direito
 - Preencha seus dados incluindo:
-    - Nome <span style="color: red; font-weight: bold;">*</span>
-    - Nome de usuário <span style="color: red; font-weight: bold;">*</span>
-    - Status <span style="color: red; font-weight: bold;">*</span>
-    - Perfil <span style="color: red; font-weight: bold;">*</span>
-    - Unidade <span style="color: red; font-weight: bold;">*</span>
-    - Email <span style="color: red; font-weight: bold;">*</span>
-    - Telefone <span style="color: red; font-weight: bold;">*</span>
+    - Nome **\***
+    - Nome de usuário **\***
+    - Status **\***
+    - Perfil **\***
+    - Unidade **\***
+    - Email **\***
+    - Telefone **\***
     - Documento
     - CEP
     - Cidade
     - Estado
     - País
     - Endereço
+    
+    <sub>Obs: os itens sucedidos de **\*** são obrigatórios.</sub>
 <br>
+
 - Após alterar os dados selecione `Salvar` no menu superior direito
 
