@@ -27,8 +27,15 @@ Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de 
 <p>
 
 Complete os campos relacionados ao item:
- - Produto
- - Local de estoque caso o item esteja em estoque
- - Quantidade
- - Valor unitário
- - Tipo de desconto
+- Produto
+- Local de estoque caso o item esteja estocado
+- Quantidade
+- Valor unitário
+- Tipo de desconto
+
+#### Estados da venda
+
+Após salvar o rascunho a venda estará com o status de *`Atendimento`*, até que seus itens sejam adicionados e seus dados confirmados.
+Quando confirmada a venda constará como *`liberada`*.
+
+O status de uma venda também informa se houve baixa financeira ou se seus itens já foram entregues ao consumidor final.
