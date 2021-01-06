@@ -33,4 +33,4 @@ Ao criar um parceiro indicador ele é relacionado a outras tabelas automaticamen
 
 ###### Exemplo
 
-![Cadastro de Cliente](/ui/assets/fluxo-cliente.gif)
+![Cadastro de Cliente](/ui/assets/fluxos-de-cadastro/fluxo-cliente.gif)

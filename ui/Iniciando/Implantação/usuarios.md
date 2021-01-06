@@ -40,4 +40,4 @@ Nesta página é possível monitorar e editar os usuários já cadastrados assim
 
 ###### Exemplo
 
-![Cadastro de Usuário](/ui/assets/fluxo-usuario.gif)
+![Cadastro de Usuário](/ui/assets/fluxos-de-cadastro/fluxo-usuario.gif)

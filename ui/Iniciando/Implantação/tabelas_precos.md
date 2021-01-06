@@ -25,4 +25,4 @@ Nesta página podemos editar as tabelas de preços que serão vinculadas as noss
 
 ###### Exemplo
 
-![Cadastro de tabela de preço](/ui/assets/fluxo-tabela-de-precos.gif)
+![Cadastro de tabela de preço](/ui/assets/fluxos-de-cadastro/fluxo-tabela-de-precos.gif)

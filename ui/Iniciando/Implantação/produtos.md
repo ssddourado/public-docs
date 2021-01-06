@@ -1,7 +1,5 @@
 ## Produtos
 
-## Cadastro de Produtos na Plataforma
-
 Para criar um produto é necessário que ele pertença a um grupo e possua uma unidade de medida, logo precisamos criar grupos de produtos e tipos de unidade.
 
 ### Criando grupos de produtos

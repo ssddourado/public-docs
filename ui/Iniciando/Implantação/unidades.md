@@ -30,4 +30,4 @@ Ao registrar uma unidade os seguintes campos são necessários:
 
 ###### Exemplo
 
-![Cadastro de Unidade](/ui/assets/fluxo-unidade.gif)
+![Cadastro de Unidade](/ui/assets/fluxos-de-cadastro/fluxo-unidade.gif)
