@@ -1,4 +1,4 @@
-## 1-Unidades
+## Unidades
 
 Nesta página é possível gerenciar as unidades de sua empresa e suas tabelas de preços vinculadas.
 
