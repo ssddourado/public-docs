@@ -9,8 +9,6 @@ Toda empresa deve possuir como dados basicos obrigatórios:
   - CNPJ **\***
   - Nome Fantasia **\***
   - Razão Social **\***
-
-Além destes podemos fornecer:
   - Inscrição Estadual
   - Inscrição Municipal
   - Telefone
