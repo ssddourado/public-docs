@@ -1,4 +1,4 @@
-## 2-Vendedor
+## Vendedor
 
 Para que um usuário possa realizar vendas ele deve ser cadastrado com oum vendedor.
 Basicamente qualquer usuário pode ser adicionado como um vendedor.
