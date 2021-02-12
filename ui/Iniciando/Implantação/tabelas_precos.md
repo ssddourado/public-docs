@@ -1,6 +1,12 @@
 ## Tabelas de Preços
 
-Nesta página podemos editar as tabelas de preços que serão vinculadas as nossas unidades ou a uma determinada venda.
+Nesta página é possível editar as tabelas de preços que serão vinculadas a outras unidades ou a uma determinada venda.
+
+#### As tabelas de preço podem ser responsáveis por classificar:
+- Pródutos em geral
+- Pré pago
+- Ecommerce
+- Split de pagamentos
 
 #### Cadastro de tabela de preço
 - Para adicionar uma tabela de preço abra a página **`Tabela de Preços`**

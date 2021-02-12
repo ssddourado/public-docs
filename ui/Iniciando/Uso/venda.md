@@ -39,3 +39,15 @@ Após salvar o rascunho a venda estará com o status de *`Atendimento`*, até qu
 Quando confirmada a venda constará como *`liberada`*.
 
 O status de uma venda também informa se houve baixa financeira ou se seus itens já foram entregues ao consumidor final.
+
+### Atenção
+
+- Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
+- Para cancelar uma venda com o financeiro baixado, é necessário fazer o estorno de cada cobrança na aba `Financeiro` no ícone '*Estornar*'.
+
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-estornar-financeiro.png'/>
+</p>
+
+
+- O desconto de uma venda é liberado conforme o perfil de desconto do vendedor que a está realizando.
