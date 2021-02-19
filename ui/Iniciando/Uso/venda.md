@@ -13,6 +13,8 @@ Para que uma venda seja realizada primeiramente devemos preencher os seguintes c
   - Observação
   - Voucher
 
+Dados como unidade, vendedor, data de negociação ...
+
 Após completar os campos necessários, no menu principal da página clique em **`Salvar Rascunho`**
 <p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-salvar-rascunho-vendas.png'/>
@@ -33,6 +35,11 @@ Complete os campos relacionados ao item:
 - Valor unitário
 - Tipo de desconto
 
+#### Adicionando desconto
+
+- O desconto de uma venda é liberado de acordo com o perfil de desconto do vendedor que a está realizando.
+- Este pode ser como um valor ou percentual.
+
 #### Estados da venda
 
 Após salvar o rascunho a venda estará com o status de *`Atendimento`*, até que seus itens sejam adicionados e seus dados confirmados.
@@ -48,6 +55,3 @@ O status de uma venda também informa se houve baixa financeira ou se seus itens
 <p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-estornar-financeiro.png'/>
 </p>
-
-
-- O desconto de uma venda é liberado conforme o perfil de desconto do vendedor que a está realizando.
