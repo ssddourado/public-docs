@@ -2,6 +2,8 @@
 
 Aqui é feito o cadastro de empresas, as informações cadastradas serão apresentadas em boletos e notas fiscais.
 
+Durante esta etapa é importante que o responsável pela empresa envie a última nota fiscal emitida para o nosso suporte, assim podemos verificar a disponibilidade do serviço para o seu município e cadastrar os dados corretos para as emissões.
+
 ### Cadastro de Empresa
 
 ##### Dados da Empresa
@@ -9,8 +11,6 @@ Toda empresa deve possuir como dados basicos obrigatórios:
   - CNPJ **\***
   - Nome Fantasia **\***
   - Razão Social **\***
-
-Além destes podemos fornecer:
   - Inscrição Estadual
   - Inscrição Municipal
   - Telefone
