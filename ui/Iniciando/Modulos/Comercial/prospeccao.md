@@ -24,4 +24,4 @@ Aqui podemos realizar o cadastro de nossos clientes ou parceiros em potencial.
 - Data de Cadastro
 - Data de Alteração
 
-Com estes dados é possível futuramente gerar um `Cliente/Parceiro` futuramente através do atalho no menu superior direito.
+Com estes dados é possível futuramente gerar um `Cliente/Parceiro` através do atalho no menu superior direito.
