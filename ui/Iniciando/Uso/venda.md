@@ -13,7 +13,7 @@ Para que uma venda seja realizada primeiramente devemos preencher os seguintes c
   - Observação
   - Voucher
 
-Dados como unidade, vendedor, data de negociação ...
+Somente os campos marcados com * são necessários para a geração do rascunho.
 
 Após completar os campos necessários, no menu principal da página clique em **`Salvar Rascunho`**
 <p align='center'>
