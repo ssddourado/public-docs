@@ -12,3 +12,5 @@ Para cadastrar um contrato basta preencher os seguintes campos:
 - Data Validade (Data de validade do contrato)
 - Status (Define se o contrato está ativo ou não)
 - Observação (Observações durante o contrato)
+
+Caso a Unidade esteja incluida em um modelo Pré Pago, cadastre o seu limite como R$ 0,00 dessa forma ela somen
