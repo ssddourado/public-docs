@@ -18,4 +18,4 @@ Um produto deve possuir:
   - codigo
   - valor de custo
 
-<sub>Obs: os itens sucedidos de **\*** são obrigatórios.</sub> 
+<sub>Obs: os itens sucedidos de **\*** são obrigatórios</sub> 
