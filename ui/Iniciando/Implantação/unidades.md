@@ -1,6 +1,6 @@
 ## Unidades
 
-Nesta página é possível gerenciar as unidades de sua empresa e suas tabelas de preços vinculadas.
+Nessa página serão cadastradas as suas unidades, serão utilizadas por usuários e vendedores.
 
 ### Cadastro de Unidade
 
