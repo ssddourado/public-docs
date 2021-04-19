@@ -1,6 +1,6 @@
 ## Tipos de Movimentação
 
-Os tipos de movimentação são usados para determinar o comportamento de uma venda, a qual tipo ela pertence, se gera financeiro, se atualiza estoque e muito mais.
+Os tipos de movimentação são usados para determinar o comportamento de uma movimentação, a qual tipo ela pertence, se gera financeiro, se atualiza estoque e muito mais.
 
 ### Cadastrando um tipo de movimentação
 

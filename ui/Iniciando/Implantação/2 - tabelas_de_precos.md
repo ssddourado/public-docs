@@ -1,6 +1,6 @@
 ## Tabelas de Preços
 
-Nesta página é possível editar as tabelas de preços que serão vinculadas a outras unidades ou a uma determinada venda.
+Nesta página é possível editar as tabelas de preços que serão vinculadas as unidades, parceiros ou ecommerce. .
 
 #### As tabelas de preço podem ser responsáveis por classificar:
 - Preço das vendas
