@@ -1,4 +1,4 @@
-# Clientes ou Parceiros
+# 5 - Clientes ou Parceiros
 
 Antes de realizar uma venda o vendedor deve cadastrar um cliente, para isso abra a página 'Cliente/Parceiro', clique em 'Adicionar item' no menu superior direito e preencha os dados solicitados, atualmente consultamos apenas os dados do cnpj automaticamente, após o cadastro clique em salvar.
 

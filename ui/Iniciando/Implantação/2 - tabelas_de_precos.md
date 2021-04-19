@@ -1,4 +1,4 @@
-## Tabelas de Preços
+## 2 - Tabelas de Preços
 
 Nesta página é possível editar as tabelas de preços que serão vinculadas as unidades, parceiros ou ecommerce. .
 

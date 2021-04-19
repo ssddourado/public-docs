@@ -1,4 +1,4 @@
-## Empresa
+## 8 - Empresa
 
 Aqui é feito o cadastro de empresas, as informações cadastradas serão apresentadas em boletos e usadas para a emissão de notas fiscais.
 
