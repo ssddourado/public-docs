@@ -24,7 +24,7 @@ Após completar os campos necessários, no menu principal da página clique em *
 
 Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de opções secundário dentro da aba itens.
 
- <img src='/ui/assets/capturas-de-tela/adicionar-item.png'/>
+ <img src='/ui/assets/capturas-de-tela/botao-adicionar-item-vendas.png'/>
  
 
 Complete os campos relacionados ao item:
