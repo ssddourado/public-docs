@@ -17,7 +17,7 @@ Somente os campos marcados com * são necessários para a geração do rascunho.
 
 Após completar os campos necessários, no menu principal da página clique em **`Salvar Rascunho`**
 
-  <img src='/ui/assets/botao-salvar-rascunho-vendas.png'/>
+  <img src='/ui/assets/capturas-de-tela/botao-salvar-rascunho-vendas.png'/>
   
 
 #### Adicionando itens à venda
