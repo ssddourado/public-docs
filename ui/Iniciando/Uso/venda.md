@@ -16,7 +16,7 @@ Para que uma venda seja realizada primeiramente devemos preencher os seguintes c
 Somente os campos marcados com * são necessários para a geração do rascunho.
 
 Após completar os campos necessários, no menu principal da página clique em **`Salvar Rascunho`**
-<p align='center'>
+
   <img src='/ui/assets/botao-salvar-rascunho-vendas.png'/>
   
 
@@ -24,7 +24,7 @@ Após completar os campos necessários, no menu principal da página clique em *
 
 Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de opções secundário dentro da aba itens.
  <img src='/ui/assets/capturas-de-tela/add item'/>
- <p>
+ 
  
 <p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-adicionar-item-vendas.png'/>
