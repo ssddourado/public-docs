@@ -1,50 +1,44 @@
 ## Vendas
 
 Nesta tela podemos realizar vendas para nossos clientes cadastrados, monitorar o estado de vendas feitas anteriormente e gerar relatórios.
+**Vendas**
+
+Nesta tela realiza-se vendas para o cliente cadastrado, monitora todas vendas realizadas para um controle e para gerar relatórios.
 
 ### Realizando Venda
 
-Para que uma venda seja realizada primeiramente devemos preencher os seguintes campos:
-  - Tipo de Negociação (boleto, cartão, dinheiro). **\***
-  - Cliente cadastrado **\***
-  - Tipo de Movimentação **\***
-  - Unidade
-  - Unidade de Entrega
-  - Observação
-  - Voucher
+Para que a venda seja realizada, primeiramente deve-se preencher somente os seguintes campos:
 
-Somente os campos marcados com * são necessários para a geração do rascunho.
-
-Após completar os campos necessários, no menu principal da página clique em **`Salvar Rascunho`**
-
+  - Tipo de Negociação (boleto, cartão, dinheiro). *
+  - Cliente cadastrado *
+  - Tipo de Movimentação *
+ 
+Após completar os campos, no menu principal da página clique em **`Salvar Rascunho`**
+<p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-salvar-rascunho-vendas.png'/>
-  
+</p>
 
 #### Adicionando itens à venda
 
 Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de opções secundário dentro da aba itens.
 
- <img src='/ui/assets/capturas-de-tela/botao-adicionar-item-vendas.png'/>
- 
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-adicionar-item-vendas.png'/>
+<p>
 
 Complete os campos relacionados ao item:
 - Produto
-- Local de estoque caso o item esteja estocado
 - Quantidade
-- Valor unitário
-- Tipo de desconto
+- Caso seja um ''KIT'' adicione o local de estoque.
 
-#### Adicionando desconto
+- Se quer adicionar um desconto no produto do seu cliente, selecione o desconto em percentual ou em valor. 
+- Em seguida clique em ''salvar'' para gravar a venda.
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-salvar-venda.png'/>
+</p>
 
-- O desconto de uma venda é liberado de acordo com o perfil de desconto do vendedor que a está realizando.
-- Este pode ser como um valor ou percentual.
+- logo depois clique em ''confirmar'' logo acima na cor 'verde'.
 
-#### Estados da venda
-
-Após salvar o rascunho a venda estará com o status de *`Atendimento`*, até que seus itens sejam adicionados e seus dados confirmados.
-Quando confirmada a venda constará como *`liberada`*.
-
-O status de uma venda também informa se houve baixa financeira ou se seus itens já foram entregues ao consumidor final.
 
 ### Atenção
 
@@ -54,3 +48,7 @@ O status de uma venda também informa se houve baixa financeira ou se seus itens
 <p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-estornar-financeiro.png'/>
 </p>
+
+### Gerar boleto/Gerar NF/Link de pagamento
+
+- Clique em 'gerar boleto' em seguida 'emitir boletos', o boleto gerado em seguida irá para aba 'anexos'.
