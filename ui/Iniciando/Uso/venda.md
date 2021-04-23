@@ -8,7 +8,7 @@ Para que uma venda seja realizada primeiramente devemos preencher os seguintes c
   - Tipo de Negociação (boleto, cartão, dinheiro). **\***
   - Cliente cadastrado **\***
   - Tipo de Movimentação **\***
-  - Unidade
+  - Unidade.
   - Unidade de Entrega
   - Observação
   - Voucher
