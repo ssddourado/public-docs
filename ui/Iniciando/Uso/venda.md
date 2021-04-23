@@ -62,7 +62,7 @@ Complete os campos relacionados ao item:
   <img src='/ui/assets/capturas-de-tela/botao-link.png'/>
 <p>
 
-Cópie o link gerado e emcapinhe para seu cliente..
+Cópie o link gerado e emcapinhe para seu cliente.
 
 ### Para cancelar a venda
 
