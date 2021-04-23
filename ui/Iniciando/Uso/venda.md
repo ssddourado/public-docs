@@ -1,13 +1,13 @@
-## Vendas
+### Vendas
 
-Nesta tela podemos realizar vendas para nossos clientes cadastrados, monitorar o estado de vendas feitas anteriormente e gerar relatórios.
-**Vendas**
+Pesquise pela aba de "Vendas", após abrir, clique em "adicionar item" para reaizar uma nova venda.
 
-Nesta tela realiza-se vendas para o cliente cadastrado, monitora todas vendas realizadas para um controle e para gerar relatórios.
+Nesta tela realiza-se vendas para o cliente cadastrado, monitora todas vendas realizadas para um controle em relatórios.
+
 
 ### Realizando Venda
 
-Para que a venda seja realizada, primeiramente deve-se preencher somente os seguintes campos:
+ Para que a venda seja realizada, primeiramente deve-se preencher somente os seguintes campos:
 
   - Tipo de Negociação (boleto, cartão, dinheiro). *
   - Cliente cadastrado *
@@ -18,6 +18,8 @@ Após completar os campos, no menu principal da página clique em **`Salvar Rasc
   <img src='/ui/assets/capturas-de-tela/botao-salvar-rascunho-vendas.png'/>
 </p>
 
+Os outros campos seram preenchidos automaticamente.
+
 #### Adicionando itens à venda
 
 Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de opções secundário dentro da aba itens.
@@ -27,28 +29,50 @@ Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de 
 <p>
 
 Complete os campos relacionados ao item:
-- Produto
-- Quantidade
-- Caso seja um ''KIT'' adicione o local de estoque.
 
+- Produto *(CERTIFICADOS QUE ESTÃO NA TABELA DE PREÇO)*
+- Quantidade
+- Caso seja um ''KIT'' o local de estoque será automático com o qual o vendedor está cadastrado.
 - Se quer adicionar um desconto no produto do seu cliente, selecione o desconto em percentual ou em valor. 
 - Em seguida clique em ''salvar'' para gravar a venda.
+
 <p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-salvar-venda.png'/>
 </p>
 
-- logo depois clique em ''confirmar'' logo acima na cor 'verde'.
+- logo depois clique em ''confirmar'' logo acima na cor  *'verde'.*
 
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-confirma-venda.png'/>
+</p>
 
 ### Atenção
 
 - Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
-- Para cancelar uma venda com o financeiro baixado, é necessário fazer o estorno de cada cobrança na aba `Financeiro` no ícone '*Estornar*'.
-
-<p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-estornar-financeiro.png'/>
-</p>
 
 ### Gerar boleto/Gerar NF/Link de pagamento
 
-- Clique em 'gerar boleto' em seguida 'emitir boletos', o boleto gerado em seguida irá para aba 'anexos'.
+- Clique em '*gerar boleto*' em seguida '*emitir boletos*', o boleto gerado em seguida irá para aba '*anexos*'.
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-boleto-anexo.png'/>
+<p>
+
+- O Link de pagamento é gerado nesse ícone.
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-link.png'/>
+<p>
+
+Cópie o link gerado e emcapinhe para seu cliente..
+
+### Para cancelar a venda
+
+Se caso o cliente desistiu de fazer a compra antes de ter a '*baixa*' no financeiro.
+
+- Clique em '*cancelar*':
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-cancelar-venda.png'/>
+<p>
+Em seguida preencha o motivo do cancelamento.
+
+##### Se já estiver feito a baixa no financeiro.
+- Entre na aba do '*financeiro*' procure a venda que quer estornar o dinheiro, clique para editar venda logo clique em '*estornar*'.
