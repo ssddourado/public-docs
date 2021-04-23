@@ -55,29 +55,45 @@ Complete os campos relacionados ao item:
 
 - Os valores de uma venda assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
 
-### Gerar boleto/Gerar NF/Link de pagamento
+### Gerar boleto
 
 - Clique em '*gerar boleto*' em seguida '*emitir boletos*', o boleto gerado em seguida irá para aba '*anexos*'.
+
 <p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-boleto-anexo.png'/>
+  <img src='/ui/assets/capturas-de-tela/gerar-boleto.gif'/>
 <p>
 
-- O Link de pagamento é gerado nesse ícone.
+- O Link de pagamento é gerado nesse ícone. 
+
 <p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-link.png'/>
 <p>
 
-Cópie o link gerado e emcapinhe para seu cliente.
+Cópie o Link e encaminhe para o cliente. A forma de pagamento do cliente em Link de pagamento é definida no '*Tipo de Negociação*' ao realizar a venda.
+
+O financeiro será baixado automaticamente caso a venda tenha sido realizada utilizando o  '*Tipo de negociação*': Boleto ou Cartão.
+Caso não possua o Go-pag, o seu Banco devera ter integração com o Gestão.Online para que essa baixa seja automática.
+Sem a integração do banco no Gestão.online, pagamentos em dinheiro, maquininha física, PIX ou outra forma de pagamento sem vínculo com o sistema, a Baixa devera ser manual:
+
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/baixa-manual-vendas.gif'/>
+<p>
 
 ### Para cancelar a venda
 
 Se caso o cliente desistiu de fazer a compra antes de ter a '*baixa*' no financeiro.
 
-- Clique em '*cancelar*':
-<p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-cancelar-venda.png'/>
-<p>
-Em seguida preencha o motivo do cancelamento.
+- Clique em '*cancelar*' em seguida escreva o motivo do cancelamento.
 
-##### Se já estiver feito a baixa no financeiro.
-- Entre na aba do '*financeiro*' procure a venda que quer estornar o dinheiro, clique para editar venda logo clique em '*estornar*'.
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/cacelamento-vendas.gif'/>
+<p>
+
+
+### Se já estiver feito a baixa no financeiro.
+
+- Entre na aba do '*financeiro*', clique para editar venda logo clique em '*estornar*'.
+
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/estornar-financeiro.gif'/>
+<p>
