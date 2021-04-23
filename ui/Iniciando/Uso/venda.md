@@ -2,7 +2,11 @@
 
 Pesquise pela aba de "Vendas", após abrir, clique em "adicionar item" para reaizar uma nova venda.
 
-Nesta tela realiza-se vendas para o cliente cadastrado, monitora todas vendas realizadas para um controle em relatórios.
+<p align='center'>
+  <img src='/ui/assets/capturas-de-tela/botao-criar-venda.png'/>
+</p>
+
+Nesta tela realiza-se vendas para o cliente cadastrado, monitora todas vendas realizadas para controle das vendas e podendo criar relatórios.
 
 
 ### Realizando Venda
@@ -14,26 +18,27 @@ Nesta tela realiza-se vendas para o cliente cadastrado, monitora todas vendas re
   - Tipo de Movimentação *
  
 Após completar os campos, no menu principal da página clique em **`Salvar Rascunho`**
+
 <p align='center'>
   <img src='/ui/assets/capturas-de-tela/botao-salvar-rascunho-vendas.png'/>
 </p>
 
-Os outros campos seram preenchidos automaticamente.
+Os outros campos seram preenchidos automaticamente após salvar rascunho.
 
 #### Adicionando itens à venda
 
 Após salvar o rascunho de sua venda, clique em **`adicionar item`** no menu de opções secundário dentro da aba itens.
 
 <p align='center'>
-  <img src='/ui/assets/capturas-de-tela/botao-adicionar-item-vendas.png'/>
+  <img src='/ui/assets/capturas-de-tela/botao-adicionar-item-venda.png'/>
 <p>
 
 Complete os campos relacionados ao item:
 
-- Produto *(CERTIFICADOS QUE ESTÃO NA TABELA DE PREÇO)*
-- Quantidade
-- Caso seja um ''KIT'' o local de estoque será automático com o qual o vendedor está cadastrado.
-- Se quer adicionar um desconto no produto do seu cliente, selecione o desconto em percentual ou em valor. 
+- Produto/serviço: Digite qual certificado deseja, selecione, o sistema puxa automaticamente o valor de acordo com a '*tabela de preço*' cadastrada no vendedor que esta realizando a venda,
+- Quantidade: Escolha a quantidade de certificado, mesmo sendo mais de '*1*' certificado o valor mostra o '*unitário*'.
+- Caso o '*Produto/serviço*' seja um **KIT**: Ao selecionar o KIT, será puxado pelo sistema o '*local de estoque*' que está cadastrado no vendedor, onde então, de forma automática, vai ser descontado a quantidade de 'Token, SmartCard ou Leitora'  de acordo com a quantidade selecionada.
+- Se quer adicionar um desconto no '*produto/serviço*' do seu cliente, selecione o desconto em percentual ou em valor.  O valor ou percentual selecionado será descontado de cima de cada certificado.
 - Em seguida clique em ''salvar'' para gravar a venda.
 
 <p align='center'>
